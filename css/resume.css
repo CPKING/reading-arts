@@ -33,7 +33,8 @@ h2 {
 }
 
 .iframe-wrapper {
-  
+    margin: auto;
+    width: fit-content;
 }
 
 .subheading {
