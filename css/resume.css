@@ -37,6 +37,10 @@ h2 {
     width: fit-content;
 }
 
+.examples-wrapper {
+    margin: auto;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
