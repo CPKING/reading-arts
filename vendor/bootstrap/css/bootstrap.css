@@ -567,6 +567,12 @@ pre code {
   }
 }
 
+ @media screen and (min-width: 0px) and (max-width: 500px) {
+        .greatHallImage {
+            display: none;
+        }
+    }
+
 .container-fluid {
   width: 100%;
   padding-right: 15px;
